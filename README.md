@@ -17,3 +17,18 @@ $ git push origin <branch>
 ```sh
 $ git status
 ```
+```sh
+$ git branch -m "Name of branch for create"
+```
+```sh
+$ git branch -d "Name of branch for delete"
+```
+```sh
+$ git checkout -b "Name of branch new branch"
+```
+```sh
+$ git merge "Name of branch"
+```
+```sh
+$ git pull origin "Name of branch"
+```
